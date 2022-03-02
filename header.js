@@ -31,13 +31,13 @@ class MyHeader extends HTMLElement
                                             text-decoration: none;
                                             color:#fff;">
                                             Home    </a>
-                        <a href="#" style="margin-right: 25px;
+                        <a href="about.html" style="margin-right: 25px;
                                             font-size:25px;
                                             font-family:Tw Cen MT;
                                             text-decoration: none;
                                             color:#fff;">
                                             About   </a>
-                        <a href="#" style="margin-right: 25px;
+                        <a href="edu.html" style="margin-right: 25px;
                                         font-size:25px; 
                                         font-family:Tw Cen MT; 
                                         text-decoration: none; 
